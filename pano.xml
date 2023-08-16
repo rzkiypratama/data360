@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="6.1.10" apprev="18007">
+  <panorama id="node1">
+    <input levelingpitch="0" overlap="1" levelingroll="0" width="1024" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1024">
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-6.66" tilt="-0.54" fov="98.58" projection="4"/>
+      <flyin pan="-6.66" tilt="-0.54" fov="98.58" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="112.773030" source="" info="" heading="0" title="Aerial Jalan Utama" nodeid="node1" tags="AERIALVIEW|Bahan 360 UPH 010723|CampusArea" latitude="0.000000" altitude="76.65" customnodeid="" datetime="20/06/2023 15.12" description="" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="" distance="25.5748" pan="-17.86" title="Lobby UPH" tilt="-20.86" skinid="ht_node" description="- Point menggunakan Logo UPH&#xa;- Point ingin dibuat lebih besar dari VT sebelum nya" url="{node2}" id="AERIALJALAN001"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" overlap="1" levelingroll="0" width="1024" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1024">
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-17.37" tilt="-4.6" fov="120" projection="4"/>
+      <flyin pan="-33.17" tilt="0.3" fov="120" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="112.772800" source="" info="" heading="0" title="Aerial Utama" nodeid="node2" tags="AERIALVIEW|Bahan 360 UPH 010723|CampusArea" latitude="0.000000" altitude="77.38" customnodeid="" datetime="20/06/2023 13.09" description="" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="" distance="812912" pan="-2.16" title="Lobby UPH" tilt="-42.55" skinid="ht_node" description="- Point menggunakan Logo UPH&#xa;- Point ingin dibuat lebih besar dari VT sebelum nya" url="{node3}" id="AERIALUTAMA_001"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" overlap="1" levelingroll="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1440">
+      <level predecode="0" preload="0" width="1440" height="1440"/>
+      <level predecode="0" preload="0" width="720" height="720"/>
+      <level predecode="1" preload="1" width="360" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="81.06" tilt="-0.8" fov="90.87" projection="4"/>
+      <flyin pan="81.06" tilt="-0.8" fov="90.87" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="112.773207" source="" info="" heading="0" title="Lobby Plaza" nodeid="node3" tags="Bahan 360 UPH 010723|CampusArea|LANTAI1" latitude="-7.310696" altitude="41.99" customnodeid="" datetime="20/06/2023 14.22" description="Lobby Plaza" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="" distance="46.7514" pan="-257.22" title="Parigie Cafe / ATM Center" tilt="-2.72" skinid="ht_node" description="- Point menggunakan Logo UPH&#xa;- Point ingin dibuat lebih besar dari VT sebelum nya" url="{node4}" id="GS001"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" overlap="1" levelingroll="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1440">
+      <level predecode="0" preload="0" width="1440" height="1440"/>
+      <level predecode="0" preload="0" width="720" height="720"/>
+      <level predecode="1" preload="1" width="360" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="81.25" tilt="-7.23" fov="110.93" projection="4"/>
+      <flyin pan="81.25" tilt="-7.23" fov="110.93" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="112.773275" source="" info="" heading="0" title="1st Floor" nodeid="node4" tags="Bahan 360 UPH 010723|CampusArea|LANTAI1" latitude="-7.311111" altitude="54.88" customnodeid="" datetime="20/06/2023 10.35" description="Plaza" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="" distance="46.7514" pan="-78.45" title="Lobby Plaza" tilt="-0.72" skinid="ht_node" description="- Point menggunakan Logo UPH&#xa;" url="{node3}" id="PLAZA001"/>
+      <hotspot target="" pan="-138.89" title="Lift Samator Bawah" tilt="-5.78" skinid="ht_node_blue_box" description="&lt;div onClick=&quot;(pano.openNext('{node5}'))&quot; class=&quot;popupMenu&quot;>Akses Lift&lt;/div>&#xa;&lt;br/>&#xa;&lt;div onClick=&quot;(pano.openNext('{node12}'))&quot; class=&quot;popupMenu&quot;>Food Court&lt;/div>&#xa;" url="{node5}" id="PLAZA002"/>
+      <hotspot target="" pan="-283.13" title="2nd Floor" tilt="15.47" skinid="ht_node" description="- Point menggunakan Logo UPH&#xa;" url="{node6}" id="PLAZA003"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0.816307" overlap="1" levelingroll="0.733739" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1440">
+      <level predecode="0" preload="0" width="1440" height="1440"/>
+      <level predecode="0" preload="0" width="720" height="720"/>
+      <level predecode="1" preload="1" width="360" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="87.6877" tilt="0" fov="70" projection="4"/>
+      <flyin pan="86.8" tilt="1.33" fov="70" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="121"/>
+    </view>
+    <userdata longitude="" source="" info="" heading="0" title="Lift - 1st Floor" nodeid="node5" tags="Bahan 360 UPH 010723|CampusArea|LANTAI1" latitude="" customnodeid="" datetime="20/06/2023 14.08" description="LIFT - LANTAI 1" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="" pan="-155.83" title="Lounge" tilt="-11.15" skinid="ht_node" description="- Point menggunakan Logo UPH&#xa;" url="{node9}" id="PLAZA004"/>
+      <hotspot target="" pan="-91.57" title="Parigie Cafe / ATM Center" tilt="-6.18" skinid="ht_node" description="- Point menggunakan Logo UPH&#xa;" url="{node4}" id="PLAZA005"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" overlap="1" levelingroll="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1440">
+      <level predecode="0" preload="0" width="1440" height="1440"/>
+      <level predecode="0" preload="0" width="720" height="720"/>
+      <level predecode="1" preload="1" width="360" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="29.5131" tilt="0" fov="84.29" projection="4"/>
+      <flyin pan="68.32" tilt="-6.76" fov="84.29" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="" source="" info="" heading="0" title="2nd Floor" nodeid="node6" tags="Bahan 360 UPH 010723|CampusArea|LANTAI2" latitude="" customnodeid="" datetime="20/06/2023 10.40" description="LANTAI 2" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="" pan="-56.78" title="Parigie Cafe / ATM Center" tilt="-7.05" skinid="ht_node" description="- Point menggunakan Logo UPH&#xa;" url="{node4}" id="PLAZA006"/>
+      <hotspot target="" pan="-106.1" title="Marketing Office" tilt="-7.44" skinid="ht_node" description="- Point menggunakan Logo UPH&#xa;" url="{node7}" id="PLAZA007"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="-0.498617" overlap="1" levelingroll="-0.0695732" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1440">
+      <level predecode="0" preload="0" width="1440" height="1440"/>
+      <level predecode="0" preload="0" width="720" height="720"/>
+      <level predecode="1" preload="1" width="360" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-1.82" tilt="-7.96" fov="90.87" projection="4"/>
+      <flyin pan="-1.82" tilt="-7.96" fov="90.87" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="" source="" info="" heading="0" title="3rd Floor" nodeid="node7" tags="Bahan 360 UPH 010723|CampusArea|LANTAI3" latitude="" customnodeid="" datetime="20/06/2023 10.50" description="LANTAI 3" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="" pan="-33.18" title="Lounge" tilt="-3.32" skinid="ht_node_blue_box" description="&lt;div onClick=&quot;(pano.openNext('{node9}'))&quot; class=&quot;popupMenu&quot;>Student Lounge&lt;/div>&#xa;&lt;br/>&#xa;&lt;div onClick=&quot;(pano.openNext('{node18}'))&quot; class=&quot;popupMenu&quot;>Outdoor&lt;/div>" url="{node9}" id="PLAZA008"/>
+      <hotspot target="" pan="-326.29" title="Multifunction Hall" tilt="-2.05" skinid="ht_node" description="- Point menggunakan Logo UPH&#xa;" url="{node8}" id="PLAZA009"/>
+      <hotspot target="" pan="-231.06" title="2nd Floor" tilt="-6.89" skinid="ht_node" description="- Point menggunakan Logo UPH" url="{node6}" id="PLAZA010"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelingpitch="0" overlap="1" levelingroll="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1440">
+      <level predecode="0" preload="0" width="1440" height="1440"/>
+      <level predecode="0" preload="0" width="720" height="720"/>
+      <level predecode="1" preload="1" width="360" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="34.53" tilt="-2.82" fov="70" projection="4"/>
+      <flyin pan="34.53" tilt="-2.82" fov="70" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="112.773460" source="" info="" heading="0" title="Adjustable Classroom" nodeid="node19" tags="Bahan 360 UPH 010723|Facilities" latitude="-7.310324" altitude="19.16" customnodeid="" datetime="20/06/2023 13.52" description="REGULAR CLASS BESAR" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="$fwd" pan="-26.02" title="Regular Class" tilt="-0.36" skinid="ht_info" description="Regular Class digunakan oleh mahasiswa dalam kegiatan belajar dengan fasilitas berupa LCD TV, papan tulis, speaker, dan ruang kelas yang nyaman " url="" id="INFO_REGULARCLASS_02"/>
+      <hotspot target="$fwd" distance="60.5097" pan="171.59" title="Discussion Room / Self Study" tilt="-0.7" skinid="ht_node" description="" url="{node20}" id="PLAZA035"/>
+      <hotspot target="" distance="94.1166" pan="-65.66" title="Lounge" tilt="-0.63" skinid="ht_node" description="" url="{node9}" id="PLAZA037"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelingpitch="0" overlap="1" levelingroll="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1440">
+      <level predecode="0" preload="0" width="1440" height="1440"/>
+      <level predecode="0" preload="0" width="720" height="720"/>
+      <level predecode="1" preload="1" width="360" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="124.41" tilt="-5.8" fov="70" projection="4"/>
+      <flyin pan="124.41" tilt="-5.8" fov="70" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="112.773654" source="" info="" heading="0" title="Computer Labs" nodeid="node17" tags="Bahan 360 UPH 010723|Facilities" latitude="-7.310085" altitude="44.95" customnodeid="" datetime="20/06/2023 13.42" description="LAB" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="" distance="28.2919" pan="-12.09" title="Library" tilt="-4.1" skinid="ht_node" description="" url="{node16}" id="PLAZA034"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelingpitch="0" overlap="1" levelingroll="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1440">
+      <level predecode="0" preload="0" width="1440" height="1440"/>
+      <level predecode="0" preload="0" width="720" height="720"/>
+      <level predecode="1" preload="1" width="360" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="85.68" tilt="-6.46" fov="70" projection="4"/>
+      <flyin pan="85.68" tilt="-6.46" fov="70" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="112.772960" source="" info="" heading="0" title="Discussion Room" nodeid="node20" tags="Bahan 360 UPH 010723|Facilities" latitude="-7.310548" altitude="75.16" customnodeid="" datetime="20/06/2023 12.08" description="DISCUSSION ROOM" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="" distance="60.5097" pan="-348.24" title="Regular Class" tilt="0.56" skinid="ht_node" description="" url="{node19}" id="PLAZA038"/>
+      <hotspot target="" distance="80.1111" pan="-18.44" title="Lounge" tilt="-0.59" skinid="ht_node" description="" url="{node9}" id="PLAZA039"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingpitch="0" overlap="1" levelingroll="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1440">
+      <level predecode="0" preload="0" width="1440" height="1440"/>
+      <level predecode="0" preload="0" width="720" height="720"/>
+      <level predecode="1" preload="1" width="360" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-38.05" tilt="-5.03" fov="70" projection="4"/>
+      <flyin pan="-38.05" tilt="-5.03" fov="70" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="" source="" info="" heading="0" title="Food Court" nodeid="node12" tags="Bahan 360 UPH 010723|Facilities" latitude="" customnodeid="" datetime="20/06/2023 14.25" description="" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="" pan="-159.78" title="Lounge" tilt="-1.89" skinid="ht_node" description="" url="{node9}" id="PLAZA026"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingpitch="0" overlap="1" levelingroll="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1440">
+      <level predecode="0" preload="0" width="1440" height="1440"/>
+      <level predecode="0" preload="0" width="720" height="720"/>
+      <level predecode="1" preload="1" width="360" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-24.75" tilt="-9.45" fov="70" projection="4"/>
+      <flyin pan="-24.75" tilt="-9.45" fov="70" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="112.773669" source="" info="" heading="0" title="Library" nodeid="node16" tags="Bahan 360 UPH 010723|Facilities" latitude="-7.309831" altitude="88.31" customnodeid="" datetime="20/06/2023 13.39" description="LIBRARY" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="$fwd" distance="28.2919" pan="-350.41" title="Lab PC" tilt="-3.52" skinid="ht_node" description="" url="{node17}" id="PLAZA032"/>
+      <hotspot target="" pan="-182.14" title="Locker" tilt="-0.01" skinid="ht_node" description="" url="{node15}" id="PLAZA033"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingpitch="0" overlap="1" levelingroll="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1440">
+      <level predecode="0" preload="0" width="1440" height="1440"/>
+      <level predecode="0" preload="0" width="720" height="720"/>
+      <level predecode="1" preload="1" width="360" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="94.83" tilt="-4.82" fov="70" projection="4"/>
+      <flyin pan="94.83" tilt="-4.82" fov="70" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="" source="" info="" heading="0" title="Locker" nodeid="node15" tags="Bahan 360 UPH 010723|Facilities" latitude="" customnodeid="" datetime="20/06/2023 13.35" description="LOKER" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="" pan="-267.06" title="Library" tilt="-2.36" skinid="ht_node" description="" url="{node16}" id="PLAZA027"/>
+      <hotspot target="" pan="-220.62" title="Regular Class" tilt="-5.07" skinid="ht_node" description="" url="{node19}" id="PLAZA028"/>
+      <hotspot target="" pan="-190.17" title="Discussion Room / Self Study" tilt="-0.99" skinid="ht_node" description="" url="{node20}" id="PLAZA029"/>
+      <hotspot target="" pan="-323.23" title="Smart Class" tilt="-5.78" skinid="ht_node" description="" url="{node10}" id="PLAZA030"/>
+      <hotspot target="" pan="-24.47" title="Lounge" tilt="-4.74" skinid="ht_node" description="" url="{node9}" id="PLAZA031"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingpitch="0" overlap="1" levelingroll="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1440">
+      <level predecode="0" preload="0" width="1440" height="1440"/>
+      <level predecode="0" preload="0" width="720" height="720"/>
+      <level predecode="1" preload="1" width="360" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="38.68" tilt="-4.73" fov="70" projection="4"/>
+      <flyin pan="38.68" tilt="-4.73" fov="70" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="112.773450" source="" info="" heading="0" title="Meeting Room" nodeid="node14" tags="Bahan 360 UPH 010723|Facilities" latitude="-7.310381" altitude="-37.56" customnodeid="" datetime="20/06/2023 11.42" description="" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="" distance="83.3356" pan="-267.05" title="Regular Class" tilt="-4.78" skinid="ht_node" description="" url="{node11}" id="PLAZA021"/>
+      <hotspot target="$fwd" distance="87.6866" pan="141.5" title="Lounge" tilt="-3.43" skinid="ht_node" description="" url="{node9}" id="PLAZA022"/>
+      <hotspot target="$fwd" distance="52.6981" pan="-153.07" title="Moot Court" tilt="0" skinid="ht_node" description="" url="{node13}" id="PLAZA023"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingpitch="0" overlap="1" levelingroll="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1440">
+      <level predecode="0" preload="0" width="1440" height="1440"/>
+      <level predecode="0" preload="0" width="720" height="720"/>
+      <level predecode="1" preload="1" width="360" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="83.36" tilt="-7.54" fov="90.77" projection="4"/>
+      <flyin pan="83.36" tilt="-7.54" fov="90.77" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="112.773915" source="" info="" heading="0" title="Moot Court" nodeid="node13" tags="Bahan 360 UPH 010723|Facilities" latitude="-7.310272" altitude="31.10" customnodeid="" datetime="20/06/2023 11.49" description="" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="$fwd" distance="52.6981" pan="27.05" title="Meeting Room" tilt="-1.69" skinid="ht_node" description="" url="{node14}" id="PLAZA024"/>
+      <hotspot target="" pan="-201.82" title="Mootcourt" tilt="2.36" skinid="ht_info" description="Mootcourt digunakan untuk pelatihan simulasi sidang bagi mahasiswa jurusan Hukum UPH Kampus Surabaya" url="" id="INFO_MOOTCOURT_001"/>
+      <hotspot target="" distance="117.539" pan="-351.16" title="Lounge" tilt="-1.95" skinid="ht_node" description="" url="{node9}" id="PLAZA025"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="0" overlap="1" levelingroll="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1440">
+      <level predecode="0" preload="0" width="1440" height="1440"/>
+      <level predecode="0" preload="0" width="720" height="720"/>
+      <level predecode="1" preload="1" width="360" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-179.27" tilt="-13.38" fov="120" projection="4"/>
+      <flyin pan="-179.27" tilt="-13.38" fov="120" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="112.773471" source="" info="" heading="0" title="Multifunction Hall" nodeid="node8" tags="Bahan 360 UPH 010723|Facilities|LANTAI3" latitude="-7.310422" altitude="-8.51" customnodeid="" datetime="20/06/2023 15.34" description="Multifunction Hall" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="" pan="-26.41" title="Marketing Office" tilt="-0.14" skinid="ht_node" description="- Point menggunakan Logo UPH" url="{node7}" id="PLAZA011"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelingpitch="0" overlap="1" levelingroll="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1440">
+      <level predecode="0" preload="0" width="1440" height="1440"/>
+      <level predecode="0" preload="0" width="720" height="720"/>
+      <level predecode="1" preload="1" width="360" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-97.34" tilt="-0.34" fov="120" projection="4"/>
+      <flyin pan="-97.34" tilt="-0.34" fov="120" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="112.773466" source="" info="" heading="0" title="Outdoor Area" nodeid="node18" tags="Bahan 360 UPH 010723|Facilities" latitude="-7.310985" altitude="69.14" customnodeid="" datetime="20/06/2023 14.37" description="OUTDOOR" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="" distance="24.0931" pan="-71.42" title="Student Lounge" tilt="-5.42" skinid="ht_node" description="" url="{node9}" id="PLAZA026"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingpitch="0" overlap="1" levelingroll="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1440">
+      <level predecode="0" preload="0" width="1440" height="1440"/>
+      <level predecode="0" preload="0" width="720" height="720"/>
+      <level predecode="1" preload="1" width="360" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-5.6893" tilt="0" fov="70" projection="4"/>
+      <flyin pan="179.51" tilt="-4.56" fov="70" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="112.773541" source="" info="" heading="0" title="Regular Classroom" nodeid="node11" tags="Bahan 360 UPH 010723|Facilities" latitude="-7.309637" altitude="47.78" customnodeid="" datetime="20/06/2023 11.26" description="" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="" pan="-41.43" title="Regular Class" tilt="-2.85" skinid="ht_info" description="Merupakan ruang kelas bagi kelompok belajar kecil dengan fasilitas TV LED." url="" id="INFO_REGULARCLASS001"/>
+      <hotspot target="" distance="83.3356" pan="-108.05" title="Meeting Room" tilt="1.01" skinid="ht_node" description="- Point menggunakan Logo UPH" url="{node14}" id="PLAZA019"/>
+      <hotspot target="" distance="171.015" pan="-159.63" title="Lounge" tilt="-1.3" skinid="ht_node" description="- Point menggunakan Logo UPH" url="{node9}" id="PLAZA020"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingpitch="0" overlap="1" levelingroll="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1440">
+      <level predecode="0" preload="0" width="1440" height="1440"/>
+      <level predecode="0" preload="0" width="720" height="720"/>
+      <level predecode="1" preload="1" width="360" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-60.37" tilt="-8.2" fov="70" projection="4"/>
+      <flyin pan="-60.37" tilt="-8.2" fov="70" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="112.773560" source="" info="" heading="0" title="Smart Classroom" nodeid="node10" tags="Bahan 360 UPH 010723|Facilities" latitude="-7.309990" altitude="58.58" customnodeid="" datetime="20/06/2023 11.21" description="" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="" pan="-96.03" title="Smart Class" tilt="-0.7" skinid="ht_info" description="Smart Class diperuntukkan untuk menunjang kegiatan belajar mengajar mahasiswa, dengan teknologi kamera terkini, LCD TV, dan dengan desain kelas yang futuristic dan mewah." url="" id="INFO_SMARTCLASS001"/>
+      <hotspot target="" distance="132.56" pan="-138.67" title="Lounge" tilt="-1.27" skinid="ht_node" description="- Point menggunakan Logo UPH" url="{node9}" id="PLAZA017"/>
+      <hotspot target="" distance="39.3077" pan="-269.68" title="Regular Class" tilt="-2.18" skinid="ht_node" description="- Point menggunakan Logo UPH" url="{node11}" id="PLAZA018"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingpitch="0" overlap="1" levelingroll="0" width="1440" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1440">
+      <level predecode="0" preload="0" width="1440" height="1440"/>
+      <level predecode="0" preload="0" width="720" height="720"/>
+      <level predecode="1" preload="1" width="360" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="1.09" tilt="1.43" fov="90.87" projection="4"/>
+      <flyin pan="1.09" tilt="1.43" fov="90.87" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata longitude="112.773340" source="" info="" heading="0" title="Student Lounge" nodeid="node9" tags="Bahan 360 UPH 010723|Facilities" latitude="-7.311162" altitude="113.88" customnodeid="" datetime="20/06/2023 11.01" description="" author="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" bordercolor="0x000000" textalpha="1" width="180" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" border="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot target="" distance="132.56" pan="-272.31" title="Smart Class" tilt="-4.96" skinid="ht_node_blue_box" description="&lt;div onClick=&quot;(pano.openNext('{node11}'))&quot; class=&quot;popupMenu&quot;>Regular Classroom&lt;/div>&#xa;&lt;br/>&#xa;&lt;div onClick=&quot;(pano.openNext('{node20}'))&quot; class=&quot;popupMenu&quot;>Discussion Room&lt;/div>" url="{node10}" id="PLAZA012"/>
+      <hotspot target="" pan="-229.85" title="Loker" tilt="-3.24" skinid="ht_node_blue_box" description="&lt;div onClick=&quot;(pano.openNext('{node16}'))&quot; class=&quot;popupMenu&quot;>Library&lt;/div>&#xa;&lt;br/>&#xa;&lt;div onClick=&quot;(pano.openNext('{node17}'))&quot; class=&quot;popupMenu&quot;>Lab Pc&lt;/div>" url="{node15}" id="PLAZA013"/>
+      <hotspot target="" distance="24.0931" pan="-95.22" title="Outdoor" tilt="-5.2" skinid="ht_node" description="- Point menggunakan Logo UPH" url="{node18}" id="PLAZA014"/>
+      <hotspot target="$fwd" pan="-353.48" title="Foodcourt" tilt="-0.81" skinid="ht_node_blue_box" description="&lt;div onClick=&quot;(pano.openNext('{node7}'))&quot; class=&quot;popupMenu&quot;>Marketing Office&lt;/div>&#xa;&lt;br/>&#xa;&lt;div onClick=&quot;(pano.openNext('{node6}'))&quot; class=&quot;popupMenu&quot;>2nd Floor&lt;/div>&#xa;&lt;br/>&#xa;&lt;div onClick=&quot;(pano.openNext('{node4}'))&quot; class=&quot;popupMenu&quot;>Parigie&lt;/div>" url="{node12}" id="PLAZA015"/>
+      <hotspot target="$fwd" distance="171.015" pan="45.38" title="Regular Class" tilt="-3.09" skinid="ht_node_blue_box" description="&lt;div onClick=&quot;(pano.openNext('{node14}'))&quot; class=&quot;popupMenu&quot;>Meeting Room&lt;/div>&#xa;&lt;/br>&#xa;&lt;div onClick=&quot;(pano.openNext('{node13}'))&quot; class=&quot;popupMenu&quot;>Moot Court&lt;/div>" url="{node11}" id="PLAZA016"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="6" zoomspeed="1.5" type="crossdissolve" zoomoutpause="1" zoomafterinfov="120" blendcolor="0x000000" blendtime="0.6" zoomfov="60" zoomout="2" enabled="1" softedge="0" zoomafteroutfov="65"/>
+    <autorotate returntohorizon="5.000" speed="0.020" nodedelay="0.00" noderandom="1" startloaded="0" useanimation="0" delay="3.00" nodefilter="" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata longitude="" source="" info="" heading="0" title="" nodeid="master" tags="" latitude="" customnodeid="" datetime="" description="" author="" comment="" copyright=""/>
+  </masternode>
+</tour>
